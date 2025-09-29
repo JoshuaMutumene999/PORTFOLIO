@@ -1,0 +1,20 @@
+* {
+    padding: 0;
+    margin: 0;
+
+    box-sizing: border-box
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: "mikrobe-variable", sans-serif;
+
+    /* Please change the font if you can, I DO NOT want to continuously reuse the sme fonts over and over again. */
+
+    /* bg color */
+    background-color: #ffeb14;
+    color: #01003a;
+}
